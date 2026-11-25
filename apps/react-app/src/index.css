@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@import "@repo/ui/globals.css";
 
 :root {
   --text: #6b6375;
